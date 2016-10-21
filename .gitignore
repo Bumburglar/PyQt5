@@ -1,0 +1,7 @@
+#first gitignore.  Need to ignore those damn folders...
+bin/
+include/
+lib/
+.ropeproject/
+share/
+pip-selfcheck.json
